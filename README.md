@@ -5,7 +5,7 @@ Save the tablesが提供する日本全国の飲食店の店名・ジャンル�
 ## フォーマット
 データはcsv形式です。Save the Tablesでは、Googleスプレッドシートで管理しており、[アプリ](https://savethetables.org/app)はAppSheetを利用して作っています。
 ## ライセンス
-公開している各種データは、[CC4.0ライセンス](https://creativecommons.org/licenses/by/4.0/legalcode.ja)のもとでご利用いただけます。	
+公開している各種データは、[CC BY 4.0ライセンス](https://creativecommons.org/licenses/by/4.0/legalcode.ja)のもとでご利用いただけます。	
 ## 免責事項
 Save the tablesは契約行為、不法行為、またはそれ以外であろうと**日本の飲食店オープンデータ**に起因または関連し、あるいはデータの使用またはその他の扱いによって生じる一切の請求、損害、その他の義務について何らの責任も負わないものとします。
 ## カラム（内容/データ型） ※空欄の場合有
